@@ -1,2 +1,2 @@
 # Pong-Python
-Pong game, created using Python, as part of a course on Udemy
+Pong game, created using Python and the built-in Turtle and Screen packages, as part of a course on Udemy.
